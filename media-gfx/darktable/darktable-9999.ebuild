@@ -13,6 +13,7 @@ HOMEPAGE="http://www.darktable.org/"
 
 LICENSE="GPL-3 CC-BY-3.0"
 SLOT="0"
+KEYWORDS="~amd64"
 LANGS=" cs da de el es fr it ja nl pl pt_BR pt_PT ru sq sv uk"
 # TODO add lua once dev-lang/lua-5.2 is unmasked
 IUSE="colord doc flickr geo gnome-keyring gphoto2 graphicsmagick jpeg2k kde
